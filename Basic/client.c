@@ -43,3 +43,7 @@ int main()
     }
     return 0;
 }
+
+
+// compile: g++ client.c -o client
+// run : ./client 2017
